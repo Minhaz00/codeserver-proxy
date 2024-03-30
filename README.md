@@ -27,7 +27,7 @@ docker build -t proxy-server .
 ### 4. Run a container based on that image
 
 ```bash
-docker run -it -p 8080:8080 proxy-server
+docker run -it -p 8000:8000 proxy-server
 ```
 
 ### 5. Check the codeserver
