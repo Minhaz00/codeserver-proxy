@@ -11,11 +11,11 @@ docker pull poridhi/codeserver-python:v1.2
 
 ### 2. Run the code-server containers
 ```bash
-docker run -it -p 7080:8080 poridhi/codeserver-python
+docker run -it -p 7080:8080 poridhi/codeserver-python:v1.2
 ```
 
 ```bash
-docker run -it -p 8080:8080 poridhi/codeserver-node
+docker run -it -p 8080:8080 poridhi/codeserver-node:v1.1
 ```
 
 
