@@ -1,3 +1,4 @@
+## Run the proxy server in docker using the following steps:
 
 ### 1. Pull the following docker images 
 ```bash
