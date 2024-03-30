@@ -18,7 +18,7 @@ docker run -it -p 8080:8080 poridhi/codeserver-node
 ```
 
 
-### 3. Build a docker image of the proxy-server and then 
+### 3. Build a docker image of the proxy-server
 
 ```bash
 docker build -t proxy-server .
